@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hello! I'm a 21-year-old intermediate programmer who is passionate about coding and always looking for opportunities to learn and grow in the world of software development. I'm currently studying Computer Science at my local university and I'm interested in a wide variety of technologies, from programming languages like Python and JavaScript to frameworks like React and Django.
+<br>Hello! I'm a 22-year-old intermediate programmer who is passionate about coding and always looking for opportunities to learn and grow in the world of software development. I'm currently studying Computer Science at my local university and I'm interested in a wide variety of technologies, from programming languages like Python and JavaScript to frameworks like React and Django.
 
 I love the feeling of creating something from scratch and seeing it become useful to others. I'm looking for opportunities to collaborate on exciting projects and work with other developers to improve my skills. I'm always willing to share my knowledge and learn from others.
 
